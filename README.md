@@ -1,5 +1,5 @@
 # 👋🏼 Asalamu aliakum!
-<img align="right" alt="GIF" src="http://gph.is/2r2TIRO" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Simeen01/Simeen01/blob/main/giphy.webp" width="500" height="320" />
 <br>
 <p style="font-size:110px">🌺 Simeen this side. 
 إن شى الله (In Sha Allah), hope you are well. 
