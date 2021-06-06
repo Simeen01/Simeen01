@@ -1,7 +1,7 @@
 # 👋🏼 Asalamu aliakum!
 <img align="right" alt="GIF" src="https://github.com/Simeen01/Simeen01/blob/main/giphy.webp" width="500" height="320" />
 <br>
-<p style="font-size:110px">🌺 Simeen this side. 
+<p style="font-size:110px">🌺 Simeen this side. <br>
 إن شى الله (In Sha Allah), hope you are well. 
 <br>I'm a work in progress, learning and implementing is my key. 🔑</p>
 
