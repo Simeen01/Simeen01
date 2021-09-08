@@ -1,9 +1,8 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Asalamu aliakum!
 <img align="right" alt="GIF" src="https://github.com/Simeen01/Simeen01/blob/main/giphy.webp" width="500" height="320" />
 <br>
-<p style="font-size:110px">🌺 Simeen this side. <br>
-إن شى الله (In Sha Allah), hope you are well. 
-<br>I'm a work in progress, learning and implementing is my key. 🔑</p>
+<p style="font-size:110px">🌺 Simeen this side.<br>
+<br>I'm a work in progress. Learning and implementing throughout the journey. Keen interest in Data Analytics.</p>
 
 ## I can code in..
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
