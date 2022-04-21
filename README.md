@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Asalamu aliakum!
 <img align="right" alt="GIF" src="https://github.com/Simeen01/Simeen01/blob/main/giphy.webp" width="500" height="320" />
 <br>
-<p style="font-size:110px">🌺 Simeen this side.<br>
+<p style="font-size:110px">I'm Simeen Khan.<br>
 <br>I'm a work in progress. Learning and implementing throughout the journey. Keen interest in Data Analytics.</p>
 
 ## I'm similiar with..
