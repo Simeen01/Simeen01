@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/Simeen01/Simeen01/blob/main/giphy.webp" width="500" height="320" />
 <br>
 <p style="font-size:110px">I'm Simeen Khan.<br>
-<br><ol><li>A work in progress.</li>
+<ol><li>A work in progress.</li>
   <li>Learning and implementing throughout the journey.</li> 
   <li>Keen interest in Data Analytics.</li></ol></p>
 
