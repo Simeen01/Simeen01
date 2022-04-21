@@ -2,7 +2,9 @@
 <img align="right" alt="GIF" src="https://github.com/Simeen01/Simeen01/blob/main/giphy.webp" width="500" height="320" />
 <br>
 <p style="font-size:110px">I'm Simeen Khan.<br>
-<br>I'm a work in progress. Learning and implementing throughout the journey. Keen interest in Data Analytics.</p>
+<br><ol><li>A work in progress.</li>
+  <li>Learning and implementing throughout the journey.</li> 
+  <li>Keen interest in Data Analytics.</li></ol></p>
 
 ## I'm familiar with..
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
