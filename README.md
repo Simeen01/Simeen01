@@ -1,12 +1,10 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Asalamu aliakum!
-<img align="right" alt="GIF" src="https://github.com/Simeen01/Simeen01/blob/main/giphy.webp" width="500" height="320" />
-<br>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Asalamu aliakum!
 <p style="font-size:110px">I'm Simeen Khan.<br>
-<ol><li>A work in progress.</li>
-  <li>Learning and implementing throughout the journey.</li> 
-  <li>Keen interest in Data Analytics.</li></ol></p>
+<ol><li>Looking to collaborate in python related projects.</li>
+  <li>Been around Python, ML, NLP and exploring more.</li> 
+  <li>Keen interest in Data Science.</li></ol></p>
 
-## I'm familiar with..
+### I'm familiar with..
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
@@ -20,7 +18,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 <br />
 <br />
-## Find me here...
+### Find me here...
 <a href="https://www.linkedin.com/in/simeen-khan-ayyub/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
