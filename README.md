@@ -1,7 +1,8 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Asalamu aliakum!
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello!
 <p style="font-size:110px">I'm Simeen Khan.<br>
 <ol><li>Looking to collaborate in python related projects.</li>
   <li>Been around Python, ML, NLP and exploring more.</li> 
+  <li>Business Analyst. Real Estate Consultant.</li> 
   <li>Keen interest in Data Science.</li></ol></p>
 
 ### I'm familiar with..
